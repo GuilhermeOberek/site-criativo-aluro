@@ -12,20 +12,20 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 1px 0;
 
 }
    .cabecalho-imagem{
-    width: 90%;
+    width: 9%;
 }
    .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 40px;
    }
    .escola-imagem{
-    width: 60%;
+    width: 19%;
    }
    .escola{
-    background-color: #05296F;
+    background-color: #1252d1;
    }
